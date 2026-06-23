@@ -1,2 +1,2 @@
 # Aviakassa_tizimi
-Aviakassalar tizimi
+Aviakassalar tizimi-Ushbu loyiha aviakassa korxonasi uchun chiptalarni sotish, mijozlar va reyslarni boshqarish hamda hisobotlarni shakllantirish uchun mo'ljallangan  tizimidir. Loyiha Python va PostgreSQL ma'lumotlar bazasi yordamida ishlab chiqilgan.
